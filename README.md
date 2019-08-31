@@ -1,9 +1,22 @@
-# looking-Sr.-Web-Developer-Node.JS-Angular-
+ I have over 7+ years of experience in Java & PHP Technologies.
 
-We have 7 years of experience with Node.JS and experience designing, implementing and supporting web-based applications while adhering to design/development best practices and security standards. We have experience with Angular/Typescript and other Front End technologies (JavaScript, HTML, CSS, XML, JSON).I will be on the middle tier with Node.JS and RESTful APIs, then move into UI development with Angular.
+I have knowledge/experience of
+- Existing application development
+- New develop from scratch
+- MySQL / PostgreSQL / NoSQL / MongoDB /
+- Angular.JS, React.JS, Node.js,
+- jQuery / Javascript - HTML / CSS
+- Server setup and maintain
+- Working using a MVC framework
+- Database design/architecture
+- Clean, commented code to understand easily
+- RestFul API integration
+- Social media / Third party API integration
+- Version controlling like Git and StackOverflow
+- Code must be accompanied with comments and documentation
 
-We have experience developing in Angular and Node.JS within a MS Azure platform. 
-We have experience with the MEAN/MERN stack would be a good fit for this position. 
-We can make sound technical decisions, think into the future to anticipate potential needs and obstacles, solve problems and add additional insight. 
-Technical Skills: Web Development, UI Development, Full-Stack Development, Middle Tier Development, Angular 2+, Typescript, Node.JS, JavaScript, Azure, NGRX, HTML, CSS, XML, JSON, Web Services (RESTful APIs) & SQL Server.
+I have enough expertise with Java, Spring, Hibernate, Node.js, Angular.js, React.JS, Git, Docker, PostgreSQL, MySQL, MongoDB, NoSQL, database, Git, Ajax, HTML5, CSS3, Bootstrap, JQuery, JavaScript, Kafka, Jenkins, Kubernetes, Gradle, Docker, Redis, Memcache SASS, SOAP and API Integrations as well. Really excited to discuss with you. Let me know if you need any more detail information from my end.
+
+
+
 Regards, Ravi Soni CTO | +91 7771055531 Skype: ravi.soni971 contact@expresstechsoftwares.com
