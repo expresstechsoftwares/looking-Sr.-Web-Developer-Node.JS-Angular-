@@ -1,2 +1,7 @@
 # looking-Sr.-Web-Developer-Node.JS-Angular-
-Sr. Web Developer (Node.JS/Angular)
+
+ have at least 2 years of experience with Node.JS and at least 7 years of experience designing, implementing and supporting web-based applications while adhering to design/development best practices and security standards. This individual will also need to have experience with Angular/Typescript (version 2 or above) and other Front End technologies (JavaScript, HTML, CSS, XML, JSON).Selected candidate will join a team responsible for an application used for authentication management (setting up permissions/access for other users). Initial development will be on the middle tier with Node.JS and RESTful APIs, then move into UI development with Angular.
+
+Ideal candidate would have experience developing in Angular and Node.JS within a MS Azure platform. MS Azure is not required for this position, but it is a plus. Candidates who have experience with the MEAN/MERN stack would be a good fit for this position. Looking for a senior resource with strong communication skills who can make sound technical decisions, think into the future to anticipate potential needs and obstacles, solve problems and add additional insight. This is an Agile development methodology environment, so relevant work experience is preferred. SQL Server development experience is a plus.
+
+Technical Skills: Web Development, UI Development, Full-Stack Development, Middle Tier Development, Angular 2+, Typescript, Node.JS, JavaScript, Azure, NGRX, HTML, CSS, XML, JSON, Web Services (RESTful APIs) & SQL Server.
